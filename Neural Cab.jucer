@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="Z2nn0I" name="NeuralCab" projectType="audioplug" useAppConfig="0"
+              addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1"
+              cppLanguageStandard="20">
+  <MAINGROUP id="EPwk52" name="NeuralCab">
+    <GROUP id="{E309C4F0-8876-6706-DC69-9853893BC3A6}" name="Source">
+      <FILE id="ejKvYx" name="PluginProcessor.cpp" compile="1" resource="0"
+            file="Source/PluginProcessor.cpp"/>
+      <FILE id="JsleZp" name="PluginProcessor.h" compile="0" resource="0"
+            file="Source/PluginProcessor.h"/>
+      <FILE id="p9UQwS" name="PluginEditor.cpp" compile="1" resource="0"
+            file="Source/PluginEditor.cpp"/>
+      <FILE id="lxNM18" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+      <FILE id="BDQJHX" name="NeuralCabinet.cpp" compile="1" resource="0"
+            file="Source/NeuralCabinet.cpp"/>
+      <FILE id="TuUEFQ" name="NeuralCabinet.h" compile="0" resource="0" file="Source/NeuralCabinet.h"/>
+      <FILE id="YK65Vy" name="SpectrumComponent.cpp" compile="1" resource="0"
+            file="Source/SpectrumComponent.cpp"/>
+      <FILE id="thgKYr" name="SpectrumComponent.h" compile="0" resource="0"
+            file="Source/SpectrumComponent.h"/>
+      <FILE id="vZB43O" name="WOLA.h" compile="0" resource="0" file="Source/WOLA.h"/>
+    </GROUP>
+  </MAINGROUP>
+  <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1" JUCE_VST3_CAN_REPLACE_VST2="0"/>
+  <EXPORTFORMATS>
+    <XCODE_MAC targetFolder="Builds/MacOSX" xcodeValidArchs="arm64" externalLibraries="onnxruntime.1.11.1"
+               postbuildCommand="mkdir -p &quot;${HOME}/Library/Audio/Plug-Ins/Components/NeuralCab.component/Contents/MacOS/&quot;&#10;mkdir -p &quot;${HOME}/Library/Audio/Plug-Ins/VST3/NeuralCab.vst3/Contents/MacOS/&quot;&#10;cp ../../dependencies/VAECabinet.onnx  &quot;${HOME}/Library/Audio/Plug-Ins/Components/NeuralCab.component/Contents/MacOS/&quot;&#10;cp ../../dependencies/VAECabinet.onnx &quot;${HOME}/Library/Audio/Plug-Ins/VST3/NeuralCab.vst3/Contents/MacOS/&quot;&#10;cp ../../dependencies/onnxruntime-osx-arm64-1.11.1/lib/libonnxruntime.1.11.1.dylib &quot;${HOME}/Library/Audio/Plug-Ins/Components/NeuralCab.component/Contents/MacOS/&quot;&#10;cp ../../dependencies/onnxruntime-osx-arm64-1.11.1/lib/libonnxruntime.1.11.1.dylib &quot;${HOME}/Library/Audio/Plug-Ins/VST3/NeuralCab.vst3/Contents/MacOS/&quot;">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug" targetName="NeuralCab" headerPath="../../dependencies/onnxruntime-osx-arm64-1.11.1/include"
+                       libraryPath="../../dependencies/onnxruntime-osx-arm64-1.11.1"
+                       customXcodeFlags="&#10;LD_RUNPATH_SEARCH_PATHS=&quot;${HOME}/Library/Audio/Plug-Ins/Components/NeuralCab.component/Contents/MacOS/ ${HOME}/Library/Audio/Plug-Ins/VST3/NeuralCab.vst3/Contents/MacOS/&quot;"/>
+        <CONFIGURATION isDebug="1" name="Release" targetName="NeuralCab" headerPath="../../dependencies/onnxruntime-osx-arm64-1.11.1/include"
+                       libraryPath="../../dependencies/onnxruntime-osx-arm64-1.11.1"
+                       osxCompatibility="10.11 SDK" macOSDeploymentTarget="10.11" customXcodeFlags="LD_RUNPATH_SEARCH_PATHS=&quot;${HOME}/Library/Audio/Plug-Ins/Components/NeuralCab.component/Contents/MacOS/ ${HOME}/Library/Audio/Plug-Ins/VST3/NeuralCab.vst3/Contents/MacOS/&quot;"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="../../../../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../../../../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../../../../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../../../../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../../../../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../../../../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_core" path="../../../../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../../../../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_dsp" path="../../../../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="../../../../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="../../../../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../../../../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../../../../../../../Applications/JUCE/modules"/>
+      </MODULEPATHS>
+    </XCODE_MAC>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_plugin_client" showAllCode="1" useLocalCopy="0"
+            useGlobalPath="1"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_utils" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_dsp" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+  </MODULES>
+  <LIVE_SETTINGS>
+    <OSX buildEnabled="0"/>
+  </LIVE_SETTINGS>
+</JUCERPROJECT>

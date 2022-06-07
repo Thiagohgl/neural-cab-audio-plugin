@@ -1,0 +1,1159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "45AE2578-AA2C-4480-8E5C-61CE5136F726"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30132C67-FDB0-4009-B40B-565C5F37463F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/NeuralCabinet.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "NeuralCab"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "30132C67-FDB0-4009-B40B-565C5F37463F - 796738ed04f09444"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCab::NeuralCab()"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/NeuralCabinet.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "380">
+               </Location>
+               <Location
+                  uuid = "30132C67-FDB0-4009-B40B-565C5F37463F - 796738ed04f09702"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCab::NeuralCab()"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/NeuralCabinet.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "420">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C0EDB4E6-ADBF-463E-8C67-5076522E6CCC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/NeuralCabinet.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "189"
+            endingLineNumber = "189"
+            landmarkName = "NeuralCab::ResampleTransferFunction()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3DB2A514-0C39-4E1B-BF53-CA23F8D14BF6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/NeuralCabinet.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "193"
+            endingLineNumber = "193"
+            landmarkName = "NeuralCab::ResampleTransferFunction()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3DB2A514-0C39-4E1B-BF53-CA23F8D14BF6 - ae73d36495727df5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCab::ResampleTransferFunction(int)"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/NeuralCabinet.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "228"
+                  endingLineNumber = "228"
+                  offsetFromSymbolStart = "488">
+               </Location>
+               <Location
+                  uuid = "3DB2A514-0C39-4E1B-BF53-CA23F8D14BF6 - ae73d36495727df5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCab::ResampleTransferFunction(int)"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/NeuralCabinet.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "228"
+                  endingLineNumber = "228"
+                  offsetFromSymbolStart = "488">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5278D1B-A7B4-455F-89DB-CB34FB4A15EF"
+            shouldBeEnabled = "No"
+            condition = "idx==1022"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/NeuralCabinet.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "208"
+            endingLineNumber = "208"
+            landmarkName = "NeuralCab::ResampleTransferFunction()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B7CF711E-4D4E-4296-A3D2-3D8FE2691D5B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/NeuralCabinet.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "196"
+            endingLineNumber = "196"
+            landmarkName = "NeuralCab::ResampleTransferFunction()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB7FF42D-3C85-4E6E-A1CE-AB89B463B695"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/NeuralCabinet.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "212"
+            endingLineNumber = "212"
+            landmarkName = "NeuralCab::ResampleTransferFunction()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A52457B-C611-462C-ACFB-55FA03500541"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/NeuralCabinet.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "204"
+            endingLineNumber = "204"
+            landmarkName = "NeuralCab::ResampleTransferFunction()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4A52457B-C611-462C-ACFB-55FA03500541 - ae73d36495727eed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCab::ResampleTransferFunction(int)"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/NeuralCabinet.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "236"
+                  endingLineNumber = "236"
+                  offsetFromSymbolStart = "692">
+               </Location>
+               <Location
+                  uuid = "4A52457B-C611-462C-ACFB-55FA03500541 - ae73d36495727eed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCab::ResampleTransferFunction(int)"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/NeuralCabinet.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "236"
+                  endingLineNumber = "236"
+                  offsetFromSymbolStart = "692">
+               </Location>
+               <Location
+                  uuid = "4A52457B-C611-462C-ACFB-55FA03500541 - ae73d36495727eed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCab::ResampleTransferFunction(int)"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/NeuralCabinet.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "236"
+                  endingLineNumber = "236"
+                  offsetFromSymbolStart = "704">
+               </Location>
+               <Location
+                  uuid = "4A52457B-C611-462C-ACFB-55FA03500541 - ae73d36495727fa7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCab::ResampleTransferFunction(int)"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/NeuralCabinet.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "242"
+                  endingLineNumber = "242"
+                  offsetFromSymbolStart = "676">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ED339AE8-7B13-4C95-9DE7-6D131A10FFFA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/NeuralCabinet.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "149"
+            endingLineNumber = "149"
+            landmarkName = "NeuralCab::UpdateParameters(_latentVariables, normMicDist, _makeUpDB)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ED339AE8-7B13-4C95-9DE7-6D131A10FFFA - d3129a221b376093"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCab::UpdateParameters(float*, float, float, float)"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/NeuralCabinet.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "156"
+                  endingLineNumber = "156"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  uuid = "ED339AE8-7B13-4C95-9DE7-6D131A10FFFA - d3129a221b376093"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCab::UpdateParameters(float*, float, float, float)"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/NeuralCabinet.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "156"
+                  endingLineNumber = "156"
+                  offsetFromSymbolStart = "224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2AF4BA17-613E-4380-89BF-A0D9F021D241"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/PluginProcessor.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "174"
+            endingLineNumber = "174"
+            landmarkName = "NeuralCabAudioProcessor::processBlock(buffer, midiMessages)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2AF4BA17-613E-4380-89BF-A0D9F021D241 - 6ab0597c3aa4e8fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCabAudioProcessor::processBlock(juce::AudioBuffer&lt;float&gt;&amp;, juce::MidiBuffer&amp;)"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/PluginProcessor.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  uuid = "2AF4BA17-613E-4380-89BF-A0D9F021D241 - 6ab0597c3aa4e8fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCabAudioProcessor::processBlock(juce::AudioBuffer&lt;float&gt;&amp;, juce::MidiBuffer&amp;)"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/PluginProcessor.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "29F08C1B-55D7-4737-B838-C46698F9A596"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/PluginProcessor.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "184"
+            endingLineNumber = "184"
+            landmarkName = "NeuralCabAudioProcessor::updateGUITransferFunction()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "29F08C1B-55D7-4737-B838-C46698F9A596 - 9890aa4560d6a131"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCabAudioProcessor::updateGUITransferFunction()"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/PluginProcessor.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "184"
+                  endingLineNumber = "184"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "29F08C1B-55D7-4737-B838-C46698F9A596 - 9890aa4560d6a131"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCabAudioProcessor::updateGUITransferFunction()"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/PluginProcessor.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "184"
+                  endingLineNumber = "184"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2C1A2715-ADB9-4A20-845D-7897A5C57225"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/PluginProcessor.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "211"
+            endingLineNumber = "211"
+            landmarkName = "NeuralCabAudioProcessor::getStateInformation(destData)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2BA748E-CDB6-4BE6-B90D-B6C3BF449E6B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/PluginProcessor.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "219"
+            endingLineNumber = "219"
+            landmarkName = "NeuralCabAudioProcessor::setStateInformation(data, sizeInBytes)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7461E408-6DBA-4B26-A3A1-98A99135B35A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/PluginProcessor.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "212"
+            endingLineNumber = "212"
+            landmarkName = "NeuralCabAudioProcessor::getStateInformation(destData)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7461E408-6DBA-4B26-A3A1-98A99135B35A - 19ea340b3088515f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCabAudioProcessor::getStateInformation(juce::MemoryBlock&amp;)"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/PluginProcessor.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "213"
+                  endingLineNumber = "213"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "7461E408-6DBA-4B26-A3A1-98A99135B35A - 19ea340b3088515f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCabAudioProcessor::getStateInformation(juce::MemoryBlock&amp;)"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/PluginProcessor.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "213"
+                  endingLineNumber = "213"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6DBDC7C0-FF3B-47E4-B498-DBA9448EC56C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/PluginProcessor.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "225"
+            endingLineNumber = "225"
+            landmarkName = "NeuralCabAudioProcessor::setStateInformation(data, sizeInBytes)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6DBDC7C0-FF3B-47E4-B498-DBA9448EC56C - 6aa12b0f3ee7e26f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCabAudioProcessor::setStateInformation(void const*, int)"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/PluginProcessor.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "226"
+                  endingLineNumber = "226"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  uuid = "6DBDC7C0-FF3B-47E4-B498-DBA9448EC56C - 6aa12b0f3ee7e26f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCabAudioProcessor::setStateInformation(void const*, int)"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/PluginProcessor.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "226"
+                  endingLineNumber = "226"
+                  offsetFromSymbolStart = "292">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C02FC550-0CBE-49F0-95B2-DD536694F879"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/PluginProcessor.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "205"
+            endingLineNumber = "205"
+            landmarkName = "NeuralCabAudioProcessor::createEditor()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C02FC550-0CBE-49F0-95B2-DD536694F879 - e9275c369356d25f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCabAudioProcessor::createEditor()"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/PluginProcessor.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "219"
+                  endingLineNumber = "219"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "C02FC550-0CBE-49F0-95B2-DD536694F879 - e9275c369356d25f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCabAudioProcessor::createEditor()"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/PluginProcessor.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "219"
+                  endingLineNumber = "219"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "337AAAEF-0445-4362-9C10-783A5EFAECDC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/PluginProcessor.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "203"
+            endingLineNumber = "203"
+            landmarkName = "NeuralCabAudioProcessor::createEditor()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "40081AE2-63DB-44F4-BD2B-B464AC6B7DE4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/PluginEditor.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "223"
+            endingLineNumber = "223"
+            landmarkName = "NeuralCabAudioProcessorEditor::paint(g)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "40081AE2-63DB-44F4-BD2B-B464AC6B7DE4 - e109c8eaf63dd054"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCabAudioProcessorEditor::paint(juce::Graphics&amp;)"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/PluginEditor.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "208"
+                  endingLineNumber = "208"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "40081AE2-63DB-44F4-BD2B-B464AC6B7DE4 - e109c8eaf63dd054"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCabAudioProcessorEditor::paint(juce::Graphics&amp;)"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/PluginEditor.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "208"
+                  endingLineNumber = "208"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE5BB6EE-9F23-46B6-B041-84E1AC9CB029"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/PluginEditor.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "234"
+            endingLineNumber = "234"
+            landmarkName = "NeuralCabAudioProcessorEditor::paint(g)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AE5BB6EE-9F23-46B6-B041-84E1AC9CB029 - e109c8eaf63dd182"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCabAudioProcessorEditor::paint(juce::Graphics&amp;)"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/PluginEditor.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "222"
+                  endingLineNumber = "222"
+                  offsetFromSymbolStart = "432">
+               </Location>
+               <Location
+                  uuid = "AE5BB6EE-9F23-46B6-B041-84E1AC9CB029 - e109c8eaf63dd182"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCabAudioProcessorEditor::paint(juce::Graphics&amp;)"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/PluginEditor.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "222"
+                  endingLineNumber = "222"
+                  offsetFromSymbolStart = "432">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1DD2820E-A125-41A7-8968-9BE6B22B6A8A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/PluginEditor.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "242"
+            endingLineNumber = "242"
+            landmarkName = "NeuralCabAudioProcessorEditor::paint(g)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1DD2820E-A125-41A7-8968-9BE6B22B6A8A - e109c8eaf63dd37a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCabAudioProcessorEditor::paint(juce::Graphics&amp;)"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/PluginEditor.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "230"
+                  endingLineNumber = "230"
+                  offsetFromSymbolStart = "792">
+               </Location>
+               <Location
+                  uuid = "1DD2820E-A125-41A7-8968-9BE6B22B6A8A - e109c8eaf63dd37a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCabAudioProcessorEditor::paint(juce::Graphics&amp;)"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/PluginEditor.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "230"
+                  endingLineNumber = "230"
+                  offsetFromSymbolStart = "792">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0035FB92-D176-4810-9F5E-3018C87F9555"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/PluginEditor.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "195"
+            endingLineNumber = "195"
+            landmarkName = "NeuralCabAudioProcessorEditor::updatePlotFromGivenLatentSpace(latentSpace)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0035FB92-D176-4810-9F5E-3018C87F9555 - cc1652acd20dac59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCabAudioProcessorEditor::updatePlotFromGivenLatentSpace(float*)"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/PluginEditor.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "192"
+                  endingLineNumber = "192"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "0035FB92-D176-4810-9F5E-3018C87F9555 - cc1652acd20dac59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCabAudioProcessorEditor::updatePlotFromGivenLatentSpace(float*)"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/PluginEditor.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "192"
+                  endingLineNumber = "192"
+                  offsetFromSymbolStart = "248">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2B121CA-79BE-4ABB-A252-6C58A3B534C4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/PluginEditor.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "NeuralCabAudioProcessorEditor::mouseDrag(event)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C2B121CA-79BE-4ABB-A252-6C58A3B534C4 - a67c196a9eef710b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCabAudioProcessorEditor::mouseDrag(juce::MouseEvent const&amp;)"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/PluginEditor.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "272">
+               </Location>
+               <Location
+                  uuid = "C2B121CA-79BE-4ABB-A252-6C58A3B534C4 - a67c196a9eef710b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCabAudioProcessorEditor::mouseDrag(juce::MouseEvent const&amp;)"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/PluginEditor.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "272">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "497DF390-E75F-4A54-8FC8-321DBF3ACAC0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/PluginEditor.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "NeuralCabAudioProcessorEditor::mouseDrag(event)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "497DF390-E75F-4A54-8FC8-321DBF3ACAC0 - a67c196a9eef764d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCabAudioProcessorEditor::mouseDrag(juce::MouseEvent const&amp;)"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/PluginEditor.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "497DF390-E75F-4A54-8FC8-321DBF3ACAC0 - a67c196a9eef764d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCabAudioProcessorEditor::mouseDrag(juce::MouseEvent const&amp;)"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/PluginEditor.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F90521D0-C443-4DB5-8A81-A98CB477B241"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/PluginEditor.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "158"
+            endingLineNumber = "158"
+            landmarkName = "NeuralCabAudioProcessorEditor::updateModelLatentSpace()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F90521D0-C443-4DB5-8A81-A98CB477B241 - f512dd898bb41a6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCabAudioProcessorEditor::updateModelLatentSpace()"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/PluginEditor.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "155"
+                  endingLineNumber = "155"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "F90521D0-C443-4DB5-8A81-A98CB477B241 - f512dd898bb41a6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCabAudioProcessorEditor::updateModelLatentSpace()"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/PluginEditor.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "155"
+                  endingLineNumber = "155"
+                  offsetFromSymbolStart = "244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03DBBEB0-8569-43C9-9B41-8A7CEEB009F3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/PluginEditor.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "NeuralCabAudioProcessorEditor::updateModelLatentSpace()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "03DBBEB0-8569-43C9-9B41-8A7CEEB009F3 - f512dd898bb41ae7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCabAudioProcessorEditor::updateModelLatentSpace()"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/PluginEditor.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "159"
+                  endingLineNumber = "159"
+                  offsetFromSymbolStart = "452">
+               </Location>
+               <Location
+                  uuid = "03DBBEB0-8569-43C9-9B41-8A7CEEB009F3 - f512dd898bb41ae7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCabAudioProcessorEditor::updateModelLatentSpace()"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/PluginEditor.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "159"
+                  endingLineNumber = "159"
+                  offsetFromSymbolStart = "452">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "687AE754-91C7-43A6-82EF-3C06C74DAD89"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/PluginProcessor.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "249"
+            endingLineNumber = "249"
+            landmarkName = "NeuralCabAudioProcessor::parameterChanged(parameterID, newValue)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "687AE754-91C7-43A6-82EF-3C06C74DAD89 - bcef3bcc7f33702d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCabAudioProcessor::parameterChanged(juce::String const&amp;, float)"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/PluginProcessor.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "250"
+                  endingLineNumber = "250"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  uuid = "687AE754-91C7-43A6-82EF-3C06C74DAD89 - bcef3bcc7f33702d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCabAudioProcessor::parameterChanged(juce::String const&amp;, float)"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/PluginProcessor.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "250"
+                  endingLineNumber = "250"
+                  offsetFromSymbolStart = "320">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EAAF9A32-2EF1-42BE-9CFA-88F927551287"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/PluginEditor.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142"
+            landmarkName = "NeuralCabAudioProcessorEditor::mouseDrag(event)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EAAF9A32-2EF1-42BE-9CFA-88F927551287 - a67c196a9eef728e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCabAudioProcessorEditor::mouseDrag(juce::MouseEvent const&amp;)"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/PluginEditor.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "142"
+                  endingLineNumber = "142"
+                  offsetFromSymbolStart = "828">
+               </Location>
+               <Location
+                  uuid = "EAAF9A32-2EF1-42BE-9CFA-88F927551287 - a67c196a9eef728e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCabAudioProcessorEditor::mouseDrag(juce::MouseEvent const&amp;)"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/PluginEditor.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "142"
+                  endingLineNumber = "142"
+                  offsetFromSymbolStart = "828">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A42E0CF1-6F13-453B-A80E-2260C9969AE7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/PluginEditor.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "210"
+            endingLineNumber = "210"
+            landmarkName = "NeuralCabAudioProcessorEditor::updatePlotFromGivenRadius(normMicDistance)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A42E0CF1-6F13-453B-A80E-2260C9969AE7 - 1313c008e96f5b4e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCabAudioProcessorEditor::updatePlotFromGivenRadius(float)"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/PluginEditor.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "211"
+                  endingLineNumber = "211"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "A42E0CF1-6F13-453B-A80E-2260C9969AE7 - 1313c008e96f5b4e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCabAudioProcessorEditor::updatePlotFromGivenRadius(float)"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/PluginEditor.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "211"
+                  endingLineNumber = "211"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE33A4EE-25F0-4727-AC56-1FC685162D3F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/PluginEditor.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "145"
+            endingLineNumber = "145"
+            landmarkName = "NeuralCabAudioProcessorEditor::mouseDrag(event)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AE33A4EE-25F0-4727-AC56-1FC685162D3F - a67c196a9eef7d29"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCabAudioProcessorEditor::mouseDrag(juce::MouseEvent const&amp;)"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/PluginEditor.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "145"
+                  endingLineNumber = "145"
+                  offsetFromSymbolStart = "840">
+               </Location>
+               <Location
+                  uuid = "AE33A4EE-25F0-4727-AC56-1FC685162D3F - a67c196a9eef7d29"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralCabAudioProcessorEditor::mouseDrag(juce::MouseEvent const&amp;)"
+                  moduleName = "NeuralCab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thiagolobato/Documents/Audio%20Programming/Projects/Neural%20Cab/Neural%20Cab/Source/PluginEditor.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "145"
+                  endingLineNumber = "145"
+                  offsetFromSymbolStart = "840">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
